@@ -1,2 +1,6 @@
 # hello-world
-This is my first project ever
+
+hello my fellow angels
+are ypou ready to experience my coding skills
+
+i hope you do
