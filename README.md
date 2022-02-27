@@ -1,6 +1,6 @@
 # hello-world
 
-hello my fellow angels
-are ypou ready to experience my coding skills
+Hello my fellow angels
+are you ready to experience my coding skills
 
-i hope you do
+I hope you are
